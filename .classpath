@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/br.com.ti.atividades/lib/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/jasperreports-4.5.0.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="/cadastro_cliente_v1/lib_report/commons-logging-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
